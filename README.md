@@ -106,4 +106,6 @@ Arama Sonuçlarınız:
  .
 ```
 **Her bir feature ayrı class/method kullanarak yapılmalıdır. Mümkün olduğunca sorumlulukları parçalanmalı ve kod okunabilir olmalıdır.**
-**https://app.patika.dev/thedisorganized**
+
+
+https://app.patika.dev/thedisorganized
